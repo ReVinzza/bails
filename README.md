@@ -1,14 +1,12 @@
 # WhatsApp Baileys
 
-<p align="center">
-  <img src="https://files.catbox.moe/srgbna.png" alt="Thumbnail" />
-</p>
+
 
 <!-- REDNAME README KECE GILA 🔥 -->
 
-<h1 align="center">
+<p align="center">
   <img src="https://files.catbox.moe/jq1i7q.jpg" alt="png" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BASED-Baileys-red?style=flat-square&logo=whatsapp" />
