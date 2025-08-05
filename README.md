@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/srgbna.png" alt="Thumbnail" />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+RedName!" alt="Typing SVG" />
-</h1>
 
 
 
