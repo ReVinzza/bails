@@ -7,26 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+RedName!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20With-Love-red?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge" />
-</p>
 
----
 
-<h3 align="center">🔥 Passionate Dev | 🎨 Design Lover | ☕ Coffee Coder</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide=prs&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=redical" />
-</p>
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
 
