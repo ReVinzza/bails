@@ -15,7 +15,7 @@ This library is highly suitable for building business bots, chat automation syst
 
 ---
 
-### Main Features and Advantages
+###  Features & Advantages
 
 - Supports automatic and custom pairing processes
 - Fixes previous pairing issues that often caused failures or disconnections
