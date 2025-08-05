@@ -7,7 +7,7 @@
 <!-- REDNAME README KECE GILA 🔥 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=⚡+REDNAME+BAILEYS+BOT;💣+WHATSAPP+IS+MINE" alt="https://files.catbox.moe/jq1i7q.jpg" />
+  <img src="https://files.catbox.moe/jq1i7q.jpg" alt="png" />
 </h1>
 
 <p align="center">
