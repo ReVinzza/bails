@@ -52,41 +52,47 @@ Con un diseño ligero y modular, Baileys es fácil de integrar en diferentes sis
 
 ###  Features & Advantages
 
-- Supports automatic and custom pairing processes
-- Fixes previous pairing issues that often caused failures or disconnections
-- Supports interactive messages, action buttons, and dynamic menus
-- Efficient automatic session management for reliable operation
-- Compatible with the latest multi-device features from WhatsApp
-- Lightweight, stable, and easy to integrate into various systems
-- Suitable for developing bots, automation, and complete communication solutions
-- Comprehensive documentation and example codes to facilitate development
+🔧 Features & Advantages → Características y Ventajas
+
+Admite procesos de emparejamiento automáticos y personalizados
+
+Soluciona problemas anteriores de emparejamiento que frecuentemente causaban fallos o desconexiones
+
+Ofrece mensajes interactivos, botones de acción y menús dinámicos
+
+Gestión automática de sesiones eficiente para operación confiable
+
+Compatible con las últimas funciones multidispositivo de WhatsApp
+
+Ligero, estable y fácil de integrar en varios sistemas
+
+Ideal para desarrollar bots, automatización y soluciones completas de comunicación
+
+Documentación completa y ejemplos de código para facilitar el desarrollo
+
+
 
 ---
 
-### Getting Started
+🚀 Getting Started → Comenzando
 
-Begin by installing the library via your preferred package manager, then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
+Comienza instalando la librería utilizando tu gestor de paquetes preferido, luego sigue la guía de configuración proporcionada. También puedes usar los ejemplos listos para entender cómo funcionan las características. Utiliza almacenamiento de sesión e interacción por mensaje para construir soluciones completas y estables adaptadas a tus necesidades de negocio o proyecto.
 
----
-
-### Why Choose whatsapp baileys?
-
-Because this library offers high stability, full features, and an actively improved pairing process. It is ideal for developers aiming to create professional and secure WhatsApp automation solutions. Support for the latest WhatsApp features ensures compatibility with platform updates.
 
 ---
 
-## Technical Notes
+🧠 Technical Notes → Notas Técnicas
 
-- Supports custom pairing codes that are stable and secure
-- Fixes previous issues related to pairing and authentication
-- Features interactive messages and action buttons for dynamic menu creation
-- Automatic and efficient session management for long-term stability
-- Compatible with the latest multi-device features from WhatsApp
-- Easy to integrate and customize based on your needs
-- Perfect for developing bots, customer service automation, and other communication applications
+Admite códigos de emparejamiento personalizados que son estables y seguros
 
----
+Soluciona problemas previos relacionados con emparejamiento y autenticación
 
-For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
+Incluye mensajes interactivos y botones de acción para crear menús dinámicos
 
-Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!
+Gestión automática y eficiente de sesiones para estabilidad a largo plazo
+
+Compatible con las últimas funciones multidispositivo de WhatsApp
+
+Fácil de integrar y personalizar según tus necesidades
+
+Perfecto para desarrollar bots, automatización de servicio al cliente y otras aplicaciones de comunicación
